@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5EC8-5D04
+
+ Directory of C:\Users\SRINIVAS\eclipse\volume\src
+
+09-05-2020  16:16    <DIR>          .
+09-05-2020  16:16    <DIR>          ..
+09-05-2020  16:16                 0 text1.txt
+09-05-2020  14:51    <DIR>          volume
+               1 File(s)              0 bytes
+               3 Dir(s)  167,906,676,736 bytes free
